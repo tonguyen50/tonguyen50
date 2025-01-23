@@ -3,7 +3,7 @@
 
 I'm Luan Nguyen, a self-taught Data Analyst based out of Orange County, California.
 
-## 🪴 A Little About Me 🪴 ##
+### 🪴 A Little About Me 🪴 ###
 
 - 💾 Computer Science background
 - 📚 Google Data Analyst Cerfication
