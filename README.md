@@ -12,6 +12,8 @@ I'm Luan Nguyen, a self-taught Data Analyst based out of Orange County, Californ
 - 🎒 Other Skills: Figma, Miro, Mural, Agile Methodology, Jira
 - 📸 Hobbyist photographer
 
+Check out my [projects here] (https://github.com/tonguyen50/Data-Projects)
+
 You can contact me at luan.ng.nguyen@gmail.com
 
 
